@@ -15,7 +15,7 @@
 ### Example Commands
 
 **Give Executable permission**
-`chmod +x organizer.sh`
+`chmod +x organizer.sh`\
 `./organizer.sh source/ destiny/ -s ext -e subdir_3,txt -l log.txt`
 
 ### Sample Output
