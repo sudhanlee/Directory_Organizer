@@ -71,21 +71,23 @@ destiny/
 8 directories, 12 files
 ```
 **Log file created**
-`2023-12-17 10:10:23: Moved source/subdir_2/t.pdf to destiny//pdf\
-2023-12-17 10:10:23: Moved source/subdir_2/s.mp3 to destiny//mp3\
-2023-12-17 10:10:23: Moved source/subdir_2/g.png to destiny//png\
-2023-12-17 10:10:23: Moved source/c.jpg to destiny//jpg\
-2023-12-17 10:10:23: Moved source/e.py to destiny//py\
-2023-12-17 10:10:23: Unzipped source/zipped.zip\
-2023-12-17 10:10:23: Moved source/zipfiles/zipfolder/z.png to destiny//png\
-2023-12-17 10:10:23: Moved source/zipfiles/zipfolder/i.cpp to destiny//cpp\
-2023-12-17 10:10:23: Moved source/zipfiles/zipfolder/y.png to destiny//png\
-2023-12-17 10:10:23: Moved source/zipfiles/zipfolder/d.jpg to destiny//jpg\
-2023-12-17 10:10:23: Moved source/zipped.zip to destiny//zip\
-2023-12-17 10:10:23: Moved source/a.png to destiny//png\
-2023-12-17 10:10:23: Moved source/b.pdf to destiny//pdf\
-Excluded list: \
-subdir_3\
-txt\
-Total Directory: 8\
-Total Files: 12`\
+```
+2023-12-17 10:10:23: Moved source/subdir_2/t.pdf to destiny//pdf
+2023-12-17 10:10:23: Moved source/subdir_2/s.mp3 to destiny//mp3
+2023-12-17 10:10:23: Moved source/subdir_2/g.png to destiny//png
+2023-12-17 10:10:23: Moved source/c.jpg to destiny//jpg
+2023-12-17 10:10:23: Moved source/e.py to destiny//py
+2023-12-17 10:10:23: Unzipped source/zipped.zip
+2023-12-17 10:10:23: Moved source/zipfiles/zipfolder/z.png to destiny//png
+2023-12-17 10:10:23: Moved source/zipfiles/zipfolder/i.cpp to destiny//cpp
+2023-12-17 10:10:23: Moved source/zipfiles/zipfolder/y.png to destiny//png
+2023-12-17 10:10:23: Moved source/zipfiles/zipfolder/d.jpg to destiny//jpg
+2023-12-17 10:10:23: Moved source/zipped.zip to destiny//zip
+2023-12-17 10:10:23: Moved source/a.png to destiny//png
+2023-12-17 10:10:23: Moved source/b.pdf to destiny//pdf
+Excluded list: 
+subdir_3
+txt
+Total Directory: 8
+Total Files: 12
+```
